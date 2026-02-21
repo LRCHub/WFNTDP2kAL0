@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Defiant Dolls",
+  "base_artist": "鈴木このみ",
+  "createdAt": "2026-02-21T13:14:55.381520Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Defiant Dolls",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_01_Defiant_Dolls_鈴木このみ.txt"
+    }
+  ]
+}
